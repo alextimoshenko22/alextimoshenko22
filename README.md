@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alextimoshenko22
+- 👋 Hi
 - 👀 I’m interested in React, Redux
 - 🌱 I’m currently learning Formik, Typescript, Antd
 - 📫 How to reach me ultimatevs@mail.ru
